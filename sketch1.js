@@ -181,6 +181,10 @@ function draw() {
 
     //ball_dy = -(ball_dy)
   }
+  if(g==0){
+    textSize(32)
+    text("Press Spacebar To Start", 25, 250)
+  }
 
  
 
